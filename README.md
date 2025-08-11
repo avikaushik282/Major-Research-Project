@@ -20,9 +20,6 @@ To build a predictive system capable of detecting suspicious transactions that i
   - Isolation Forest  
   - Autoencoders
 
-- **Sequential Models**:  
-  - LSTM (for temporal/sequential data modeling)
-
 - **Imbalance Handling**:  
   - SMOTE (Synthetic Minority Over-sampling Technique)  
   - RandomUnderSampler
